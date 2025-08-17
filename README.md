@@ -8,7 +8,7 @@
 <br>
 
 ## 🛠 Tech Stack
-- **Backend**: Kotlin, Spring Boot, Gradle
+- **Backend**: Kotlin, Spring Boot, Spring Data JPA, Gradle
 - **Frontend**: React, Vite
 - **Database**: MySQL
 - **Infra**: AWS EC2, VPC
