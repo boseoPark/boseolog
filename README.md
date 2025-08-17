@@ -1,4 +1,7 @@
 
+<img src="https://github.com/boseoPark/boseo-file-repo/blob/main/boseolog.png" />
+
+
 
 # 🩵 boseolog 🩵
 보서 블로그 프로젝트 레포지토리입니다. ^_^**
